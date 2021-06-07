@@ -1,7 +1,7 @@
 # AZ-204T00-A: Developing Solutions for Microsoft Azure
 
 ## Module 01: Creating Azure App Service Web Apps
-- [Section-4-Develop-Azure-compute-solutions-Azure-Web-Apps-and-Azure-Functions](Section-4-Develop-Azure-compute-solutions-Azure-Web-Apps-and-Azure-Functions)
+- [Section-4-Develop-Azure-Compute-Solutions-Azure-Web-Apps-and-Azure-Functions](Section-4-Develop-Azure-Compute-Solutions-Azure-Web-Apps-and-Azure-Functions)
 
 ## Module 02: Implement Azure Functions
 - [Section-4-Develop-Azure-Compute-Solutions-Azure-Web-Apps-and-Azure-Functions](Section-4-Develop-Azure-Compute-Solutions-Azure-Web-Apps-and-Azure-Functions)
@@ -24,13 +24,13 @@
 - [Section-7-Implement-Azure-Security](Section-7-Implement-Azure-Security)
 
 ## Module 08: Implement API Management
-- [Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services)
+- [Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services)
 
 ## Module 09: Develop event-based solutions
-- [Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services)
+- [Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services)
 
 ## Module 10: Develop message-based solutions
-- [Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-And-Consume-Azure-and-Third-Party-Services)
+- [Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services](Section-9-Connect-to-and-Consume-Azure-and-Third-Party-Services)
 
 
 ## Module 11: Instrument solutions to support monitoring and logging
